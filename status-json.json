@@ -1,1 +1,1 @@
-{"status": "Offline", "changeDateTime": {"y": 2021, "m": 7, "d": 9, "H": 1, "M": 4, "S": 51}, "timeLag": "0:01:04", "upDateTime": {"y": "2021", "m": "07", "d": "09", "H": "01", "M": "05", "S": "55"}}
+{"status": "Online", "changeDateTime": {"y": 2021, "m": 7, "d": 9, "H": 1, "M": 7, "S": 0}, "timeLag": 0, "upDateTime": {"y": "2021", "m": "07", "d": "09", "H": "01", "M": "07", "S": "00"}}
